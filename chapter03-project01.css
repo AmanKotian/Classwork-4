@@ -1,0 +1,58 @@
+body {
+    background-color: #1b404e;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+header,
+footer {
+    color: white;
+    background-color: #3D6271;
+    margin: 0em 4em 0.5em 4em;
+}
+
+.body {
+    padding: 0.5rem;
+    background-color: white;
+    margin: 0em 4em 0.5em 4em;
+}
+
+.header,
+.footer {
+    padding: 0.5rem;
+}
+
+.options {
+    background-color: gray;
+    margin: 0em 4em 0.5em 4em;
+    padding: 0.5rem;
+}
+
+.button,
+.nyc {
+    color: cyan;
+}
+
+.caption,
+.review, .ov{
+    color: gray
+}
+
+.cp {
+    color: purple;
+}
+
+.desc,
+.rev,
+.rf,
+.hm,
+.br,
+.sc {
+    color: cyan;
+    margin-right: 1rem;
+}
+
+.ref
+{
+    background-image: linear-gradient(gray,white);
+}
